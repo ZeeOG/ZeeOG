@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZeeOG
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning C/C++
+- 👋 Hi, I’m Muna
+- 👀 I’m interested in AI/ML engineering
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on IG is yh_its_zee
+- 📫 How to reach me on IG is call.me._.muna
 
 <!---
 ZeeOG/ZeeOG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
