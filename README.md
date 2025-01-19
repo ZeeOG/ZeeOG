@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muna
-- 👀 I’m interested in AI/ML engineering
+- 👀 I’m interested in AI/ML engineering, Audio programming and Augumented and Virtual reality. I'm also looking at how these fields can overlap and be used together
 - 🌱 I have experience using C, javascript, python and Java
 - I am currently looking at audio programming
 - 💞️ I’m looking to collaborate on 
