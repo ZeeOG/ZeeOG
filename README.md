@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muna
 - 👀 I’m interested in AI/ML engineering
 - 🌱 I have experience using C, javascript, python and Java
-- I am currently looking at audio porgramming
+- I am currently looking at audio programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on IG is call.me._.muna
 
