@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Muna
-- 👀 I’m interested in AI/ML engineering, Audio programming and Augumented and Virtual reality. I'm also looking at how these fields can overlap and be used together
-- 🌱 I have experience using C, javascript, python and Java
-- I am currently looking at audio programming
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Embedded Systems Engineering, AI/ML Engineering and Audio Programming. I'm also looking at how these fields can overlap and be used together
+- 🌱 I have experience programming in C, C++, python and Java. I also have experience using VHDL and MultiSim
+- I am currently taking courses involving the use of C and C++ in embedded systems engineering
 - 📫 How to reach me on IG is call.me._.muna
 
 <!---
